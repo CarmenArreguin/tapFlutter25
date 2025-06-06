@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
 
 class GlobalValues {
-  static ValueNotifier themeMode = ValueNotifier(1); 
+  static ValueNotifier<int> themeMode = ValueNotifier(1);
 }

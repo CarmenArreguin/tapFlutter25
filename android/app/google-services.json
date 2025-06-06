@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352309474628",
+    "project_id": "movies-app-favorites",
+    "storage_bucket": "movies-app-favorites.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352309474628:android:10087e90e6ff2cbaa99311",
+        "android_client_info": {
+          "package_name": "com.example.tap2025"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352309474628-7r5cjvp2gmjdbpqoej7vlvprmcif0pi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2aTivlZbuh3AQyh_O3I-TvkoEshG8wig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352309474628-7r5cjvp2gmjdbpqoej7vlvprmcif0pi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
